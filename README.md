@@ -2,8 +2,8 @@
 </div>
 
 <div align="center">
-  <img alt="coding animation" width="200"
-    src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" 
+  <img alt="coding animation" width="400"
+    src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" 
   />
 </div>
 
