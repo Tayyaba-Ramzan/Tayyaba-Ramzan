@@ -5,7 +5,7 @@
   <img alt="coding animation" width="400"
     src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" 
   />
-  br
+  <br>
   <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=tayyaba-ramzan&color=lightgrey&style=for-the-badge" />
 </p>
