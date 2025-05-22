@@ -2,7 +2,7 @@
 </div>
 
 <div align="center">
-  <img alt="coding animation" width="400"
+  <img alt="coding animation" width="200"
     src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" 
   />
 </div>
