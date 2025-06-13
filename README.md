@@ -61,8 +61,6 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-![snake gif](https://github.com/tayyaba-ramzan/tayyaba-ramzan/blob/output/dist/github-snake.svg)
-
 
 ## 🏆 GitHub Achievements
 
