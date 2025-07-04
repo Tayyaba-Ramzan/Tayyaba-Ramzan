@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#f953c6;">Tayyaba Ramzan</span> 👩‍💻</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40px">, I'm Tayyaba Ramzan 👩‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=0&color=6C63FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+Enthusiast;Frontend+Sorceress;LLM+Experimenter;Open+Source+Contributor;Systems+Thinker;Creative+Technologist;Code.+Create.+Inspire.;Web+Innovator;UX+First+Builder;Cloud+Native+Dev;Pixel+Perfect+Perfectionist"/>
