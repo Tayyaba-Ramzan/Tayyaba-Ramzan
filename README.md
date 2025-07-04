@@ -3,9 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=0&color=6C63FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+Enthusiast;Frontend+Developer"/>
 
 <p align="center">
-   <img alt="coding animation" width="400"
-    src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=0&color=6C63FF&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+Enthusiast;Frontend+Sorceress;LLM+Experimenter;Open+Source+Contributor;Systems+Thinker;Creative+Technologist;Code.+Create.+Inspire.;Web+Innovator;UX+First+Builder;Cloud+Native+Dev;Pixel+Perfect+Perfectionist"/>
 </p>
 
 ---
