@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#f953c6;">Tayyaba Ramzan</span> 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=0&color=6C63FF&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+Enthusiast;Frontend+Sorceress;LLM+Experimenter;Open+Source+Contributor;Systems+Thinker;Creative+Technologist;Code.+Create.+Inspire.;Web+Innovator;UX+First+Builder;Cloud+Native+Dev;Pixel+Perfect+Perfectionist"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=30&pause=0&color=6C63FF&center=true&vCenter=true&width=900&lines=💻+Software+Engineer;🤖+AI+Enthusiast;✨+Frontend+Sorceress;🧠+LLM+Experimenter;🌍+Open+Source+Contributor;⚙️+Systems+Thinker;🎨+Creative+Technologist;🔥+Code.+Create.+Inspire.;🌐+Web+Innovator;🧩+UX+First+Builder;☁️+Cloud+Native+Dev;🎯+Pixel+Perfect+Perfectionist"/>
 </p>
+
 
 <p align="center">
    <img alt="coding animation" width="400"
