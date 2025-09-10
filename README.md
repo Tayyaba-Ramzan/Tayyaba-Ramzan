@@ -154,8 +154,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made_with🔥_by_Tayyaba_Ramzan-000000?style=for-the-badge" />
-</p>
-
