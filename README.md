@@ -92,7 +92,7 @@
   <a href="mailto:tayyabaramzan.it@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/tayyaba-ramzan" target="_blank">
+  <a href="https://github.com/Tayyaba-Ramzan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -102,7 +102,7 @@
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tayyaba-ramzan&label=🚀+Total+Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Tayyaba-Ramzan&label=🚀+Total+Profile+Views&color=6C63FF&style=for-the-badge" />
 </p>
 
 ---
@@ -110,7 +110,7 @@
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyaba-ramzan&bg_color=1a1b27&color=E84A5F&line=F9D923&point=00ADB5&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyaba-Ramzan&bg_color=1a1b27&color=E84A5F&line=F9D923&point=00ADB5&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -118,7 +118,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tayyaba-ramzan&theme=algolia&row=1&column=7&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tayyaba-Ramzan&theme=algolia&row=1&column=7&no-frame=true" />
 </p>
 
 ---
@@ -126,8 +126,8 @@
 ## 📈 My Dev Metrics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tayyaba-ramzan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyaba-ramzan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tayyaba-Ramzan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Ramzan&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -135,7 +135,7 @@
 ## 🔥 Current GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayyaba-ramzan&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Tayyaba-Ramzan&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -150,7 +150,5 @@
 ## 🐍 Snake Eating My Code
 
 <p align="center">
-  <img src="https://github.com/Tayyaba-Ramzan/Tayyaba-Ramzan/blob/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/Tayyaba-Ramzan/Tayyaba-Ramzan/blob/output/github-snake-dark.svg" />
 </p>
-
----
