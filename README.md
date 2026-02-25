@@ -1,13 +1,11 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#f953c6;">Tayyaba Ramzan</span> 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=0&color=6C63FF&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+Enthusiast;Frontend+Sorceress;LLM+Experimenter;Open+Source+Contributor;Systems+Thinker;Creative+Technologist;Code.+Create.+Inspire.;Web+Innovator;UX+First+Builder;Cloud+Native+Dev;Pixel+Perfect+Perfectionist"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+Enthusiast;Frontend+Sorceress;LLM+Experimenter;Open+Source+Contributor;Systems+Thinker;Creative+Technologist;Code.+Create.+Inspire."/>
 </p>
 
 <p align="center">
-   <img alt="coding animation" width="400"
-    src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" 
-  />
+   <img width="380" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
 </p>
 
 ---
@@ -16,74 +14,69 @@
 
 > **"Code is my canvas. I design systems that are beautiful inside & out."**
 
-- 💼 Full-Stack Engineer | Passionate about **AI**, **UX**, & **Performance**
-- 🤖 Exploring AI Agents, Generative UIs, and Conversational Interfaces
-- ✨ Perfectionist in code, minimalist in design
-- 🌍 Contributor to Open Source & Tech Communities
-- 🧠 Constantly evolving, learning, building...
+- 💼 Full-Stack Engineer passionate about **AI**, **UX**, & **Performance**
+- 🤖 Exploring AI Agents, Generative UIs & LLM Integrations
+- ✨ Pixel-perfect frontend + clean backend architecture
+- 🌍 Open Source Contributor
+- 🧠 Always building. Always evolving.
 
 ---
 
-## 🛠 My Tech Stack
+## 🛠 Tech Stack
 
 ### 👩‍💻 Languages  
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+JavaScript • TypeScript • Python • HTML • CSS  
 
 ### 🌐 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-EF4F1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+React • Next.js • Tailwind CSS • Figma  
 
-### 🛠 Backend & Dev Tools  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-026E00?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-11AB00?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+### 🛠 Backend  
+Node.js • Express • MongoDB  
 
-### ☁️ Hosting / Deployment  
-<p>
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00AD9F?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-6F45E3?style=for-the-badge&logo=railway&logoColor=white"/>
-</p>
+### ☁️ Deployment  
+Vercel • Netlify • Railway • GitHub Pages  
 
 ---
 
 ## 🌟 Featured Projects
 
-- 🧠 **AI ChatBot with TypeScript & Chainlit**  
-  Conversational AI using OpenAI/Gemini, CLI to web transitions
+### 🧠 AI ChatBot (TypeScript + Chainlit)
+Conversational AI with OpenAI / Gemini integration
 
-- 🍕 **FoodieZone (Next.js + MongoDB)**  
-  Full-stack food delivery platform with filtering, cart, and admin UI
+### 🍕 FoodieZone (Next.js + MongoDB)
+Full-stack food delivery platform
 
-- 🛍 **E-Shop UI (Tailwind + React)**  
-  Modern eCommerce interface with responsive grid and interactivity
-
----
-
-## 📚 Currently Sharpening My Skills
-
-- 🤖 Building with **LangChain**, **Pinecone**, **OpenAI Assistants**
-- 🛠 Mastering **Micro Frontends** & **CI/CD Pipelines**
-- ☁️ Deploying smarter apps with **serverless architecture**
+### 🛍 E-Shop UI (React + Tailwind)
+Modern responsive eCommerce interface
 
 ---
 
-## 🌐 Let’s Connect
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tayyaba-Ramzan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Ramzan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tayyaba-Ramzan&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tayyaba-Ramzan&theme=algolia&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tayyabaRamzan/" target="_blank">
@@ -99,55 +92,12 @@
 
 ---
 
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tayyaba-Ramzan&label=🚀+Total+Profile+Views&color=6C63FF&style=for-the-badge" />
-</p>
-
----
-
-## 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyaba-Ramzan&bg_color=1a1b27&color=E84A5F&line=F9D923&point=00ADB5&area=true&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tayyaba-Ramzan&theme=algolia&row=1&column=7&no-frame=true" />
-</p>
-
----
-
-## 📈 My Dev Metrics
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tayyaba-Ramzan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Ramzan&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🔥 Current GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tayyaba-Ramzan&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🧠 Dev Philosophy
 
-> _"Think in systems, code with empathy, design with clarity."_  
-> _“Break it. Fix it. Learn it. Ship it.”_
+> _Think in systems. Code with empathy. Design with clarity._  
+> _Break it. Fix it. Learn it. Ship it._
 
 ---
-
-## 🐍 Snake Eating My Code
 
 <p align="center">
   <img src="https://github.com/Tayyaba-Ramzan/Tayyaba-Ramzan/blob/output/github-snake-dark.svg" />
