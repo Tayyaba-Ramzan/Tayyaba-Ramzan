@@ -115,23 +115,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tayyaba-Ramzan&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## 📈 My Dev Metrics
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tayyaba-Ramzan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Ramzan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
----
-
 ## 🔥 Current GitHub Streak
 
 <p align="center">
