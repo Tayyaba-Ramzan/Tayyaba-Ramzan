@@ -115,9 +115,11 @@
 
 ---
 
-## 🔥 Current GitHub Streak
+## 🏆 GitHub Trophies
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tayyaba-Ramzan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=Tayyaba-Ramzan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tayyaba-Ramzan&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
