@@ -1,207 +1,137 @@
-# Hi there 👋 I'm **Tayyaba Ramzan**
-
-<h3 align="center">
-💜 Software Engineer • AI Engineer • Full Stack Developer
-</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color:#f953c6;">Tayyaba Ramzan</span> 👩‍💻</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;TypeScript+Developer;Next.js+Developer;Building+AI+Agents;Prompt+Engineering;Open+Source+Contributor;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=0&color=6C63FF&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+Enthusiast;Frontend+Sorceress;LLM+Experimenter;Open+Source+Contributor;Systems+Thinker;Creative+Technologist;Code.+Create.+Inspire.;Web+Innovator;UX+First+Builder;Cloud+Native+Dev;Pixel+Perfect+Perfectionist"/>
 </p>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="450"/>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/Tayyaba-Ramzan">
-<img src="https://img.shields.io/github/followers/Tayyaba-Ramzan?label=Followers&style=for-the-badge&logo=github"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Tayyaba-Ramzan&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
-
-<img src="https://img.shields.io/github/stars/Tayyaba-Ramzan?style=for-the-badge"/>
-
+   <img alt="coding animation" width="400"
+    src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" 
+  />
 </p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 > **"Code is my canvas. I design systems that are beautiful inside & out."**
 
-- 💜 Software Engineer from Pakistan
-- 🤖 Passionate about Artificial Intelligence & AI Agents
-- 🌐 Building modern Full Stack Applications
-- ⚡ Love TypeScript, Next.js and React
-- 🚀 Exploring Agentic AI, LangChain, Pinecone & MCP
-- 📚 Always learning something new
-- 🌍 Open Source Contributor
-- 💡 Turning ideas into real-world applications
+- 💼 Full-Stack Engineer | Passionate about **AI**, **UX**, & **Performance**
+- 🤖 Exploring AI Agents, Generative UIs, and Conversational Interfaces
+- ✨ Perfectionist in code, minimalist in design
+- 🌍 Contributor to Open Source & Tech Communities
+- 🧠 Constantly evolving, learning, building...
 
 ---
 
-# 🚀 Tech Stack
+## 🛠 My Tech Stack
 
-<p align="center">
+### 👩‍💻 Languages  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,tailwind,git,github,vscode,figma,vercel,netlify"/>
+### 🌐 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-EF4F1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
+### 🛠 Backend & Dev Tools  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-026E00?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-11AB00?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### ☁️ Hosting / Deployment  
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00AD9F?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-6F45E3?style=for-the-badge&logo=railway&logoColor=white"/>
 </p>
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-### 🤖 AI ChatBot
+- 🧠 **AI ChatBot with TypeScript & Chainlit**  
+  Conversational AI using OpenAI/Gemini, CLI to web transitions
 
-- OpenAI / Gemini
-- TypeScript
-- Chainlit
-- Conversational AI
+- 🍕 **FoodieZone (Next.js + MongoDB)**  
+  Full-stack food delivery platform with filtering, cart, and admin UI
 
----
-
-### 🍔 FoodieZone
-
-- Next.js
-- MongoDB
-- Responsive Design
-- Authentication
-- Admin Dashboard
+- 🛍 **E-Shop UI (Tailwind + React)**  
+  Modern eCommerce interface with responsive grid and interactivity
 
 ---
 
-### 🛍 Modern E-Commerce UI
+## 📚 Currently Sharpening My Skills
 
-- React
-- Tailwind CSS
-- Responsive Layout
-- Beautiful Components
-
----
-
-# 📚 Currently Learning
-
-- 🤖 AI Agents
-- 🧠 Prompt Engineering
-- ⚡ LangChain
-- 📦 Pinecone
-- ☁️ Serverless Architecture
-- 🔥 Agentic AI
+- 🤖 Building with **LangChain**, **Pinecone**, **OpenAI Assistants**
+- 🛠 Mastering **Micro Frontends** & **CI/CD Pipelines**
+- ☁️ Deploying smarter apps with **serverless architecture**
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Let’s Connect
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tayyaba-Ramzan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyaba-Ramzan&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://www.linkedin.com/in/tayyabaRamzan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tayyabaramzan.it@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/tayyaba-ramzan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 👀 Profile Visitors
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tayyaba-Ramzan&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://komarev.com/ghpvc/?username=tayyaba-ramzan&label=🚀+Total+Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Activity Graph
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tayyaba-Ramzan&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyaba-ramzan&bg_color=1a1b27&color=E84A5F&line=F9D923&point=00ADB5&area=true&hide_border=true"/>
 </p>
 
 ---
 
-# 💻 Coding Activity
+## 🔥 Current GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tayyaba-Ramzan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=Tayyaba-Ramzan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 🧠 Dev Philosophy
+
+> _"Think in systems, code with empathy, design with clarity."_  
+> _“Break it. Fix it. Learn it. Ship it.”_
+
+---
+
+## 🐍 Snake Eating My Code
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyaba-Ramzan&theme=tokyonight"/>
-
+  <img src="https://github.com/Tayyaba-Ramzan/Tayyaba-Ramzan/blob/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
-
-# 📅 Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/8A2BE2/Tayyaba-Ramzan"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/tayyabaRamzan/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tayyabaramzan.it@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Tayyaba-Ramzan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Snake Eating My Contributions
-
-> **⚠️ This section will only work after enabling the GitHub Snake GitHub Action.**
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Tayyaba-Ramzan/Tayyaba-Ramzan/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 💭 Dev Philosophy
-
-> **Think in systems.**
->
-> **Code with empathy.**
->
-> **Design with clarity.**
->
-> **Never stop learning. 🚀**
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-If you like my work, don't forget to ⭐ my repositories.
-
-</h3>
