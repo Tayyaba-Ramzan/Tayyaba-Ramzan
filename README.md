@@ -124,6 +124,14 @@
 
 ---
 
+# 💻 Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyaba-Ramzan&theme=tokyonight"/>
+
+</p>
+
 ## 🧠 Dev Philosophy
 
 > _"Think in systems, code with empathy, design with clarity."_  
