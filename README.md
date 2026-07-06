@@ -124,13 +124,16 @@
 
 ---
 
-# 💻 Coding Activity
+
+# 📅 Contribution Calendar
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyaba-Ramzan&theme=tokyonight"/>
+<img src="https://ghchart.rshah.org/8A2BE2/Tayyaba-Ramzan"/>
 
 </p>
+
+---
 
 ## 🧠 Dev Philosophy
 
