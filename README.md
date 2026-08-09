@@ -63,11 +63,66 @@ My focus is **AI agents, MCP integrations, and automation** that solve practical
 
 ## 🚀 Featured Projects
 
-| **🧠 AI ChatBot** | **🍕 FoodieZone** | **🛍 E-Shop UI** |
-|---|---|---|
-| Conversational AI experience built with modern LLM tooling and Chainlit. | Full-stack food delivery platform with product filtering, cart, and admin UI. | Responsive e-commerce interface with interactive components and grid layouts. |
-| `TypeScript` · `Chainlit` · `Gemini` | `Next.js` · `MongoDB` · `Tailwind CSS` | `React` · `Tailwind CSS` |
-| [Repository](https://github.com/tayyaba-ramzan?tab=repositories) | [Repository](https://github.com/tayyaba-ramzan?tab=repositories) | [Repository](https://github.com/tayyaba-ramzan?tab=repositories) |
+Selected production work across agentic AI, automation, multi-agent engineering, and cloud-native development.
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div style="border:1px solid #30363D; border-radius:12px; padding:18px 20px; margin:6px;">
+        <span style="color:#22D3EE; font-size:12px; letter-spacing:1.5px;">AGENTIC AI · AUTOMATION</span>
+        <br/><br/>
+        <b style="color:#8B5CF6; font-size:16px;">⚙️ Agent Factory</b> <span style="color:#A6ADBB; font-size:14px;">· Canva × LinkedIn</span>
+        <br/><br/>
+        <span style="color:#A6ADBB; font-size:14px; line-height:1.7;">Production-ready Agent Factory workflow that connects <b>Canva MCP</b> with <b>Claude Code</b> to generate LinkedIn posts and optimized Canva designs using reusable AI skills.</span>
+        <br/><br/>
+        <code>Claude Code</code> · <code>Canva MCP</code> · <code>Agent Factory</code> · <code>Automation</code>
+        <br/><br/>
+        <a href="https://github.com/Tayyaba-Ramzan/Agent-Factory-Canva-Linkedin-System" style="color:#8B5CF6; font-weight:600; text-decoration:none;">View Repository →</a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="border:1px solid #30363D; border-radius:12px; padding:18px 20px; margin:6px;">
+        <span style="color:#22D3EE; font-size:12px; letter-spacing:1.5px;">AUTONOMOUS AI · AI EMPLOYEE</span>
+        <br/><br/>
+        <b style="color:#8B5CF6; font-size:16px;">🤖 Autonomous AI Employee</b>
+        <br/><br/>
+        <span style="color:#A6ADBB; font-size:14px; line-height:1.7;">Production-ready digital FTE that monitors <b>Gmail &amp; LinkedIn</b>, generates content, manages approvals, and executes actions 24/7 using <b>Claude Code</b>.</span>
+        <br/><br/>
+        <code>Python</code> · <code>Claude Code</code> · <code>Workflow Automation</code> · <code>APIs</code>
+        <br/><br/>
+        <a href="https://github.com/Tayyaba-Ramzan/Autonomous-AI-Employee-Silver-Tier" style="color:#8B5CF6; font-weight:600; text-decoration:none;">View Repository →</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="border:1px solid #30363D; border-radius:12px; padding:18px 20px; margin:6px;">
+        <span style="color:#22D3EE; font-size:12px; letter-spacing:1.5px;">MULTI-AGENT · LLM ENGINEERING</span>
+        <br/><br/>
+        <b style="color:#8B5CF6; font-size:16px;">🧠 Multi-Agent Systems</b>
+        <br/><br/>
+        <span style="color:#A6ADBB; font-size:14px; line-height:1.7;">Collection of multi-agent systems built on the <b>OpenAI Agent SDK</b> — web search tools, guardrails, dynamic instructions, and smart customer-support bots.</span>
+        <br/><br/>
+        <code>Python</code> · <code>OpenAI Agent SDK</code> · <code>Guardrails</code> · <code>LLMs</code>
+        <br/><br/>
+        <a href="https://github.com/Tayyaba-Ramzan/Multi-Agent-Systems" style="color:#8B5CF6; font-weight:600; text-decoration:none;">View Repository →</a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="border:1px solid #30363D; border-radius:12px; padding:18px 20px; margin:6px;">
+        <span style="color:#22D3EE; font-size:12px; letter-spacing:1.5px;">FULL-STACK · CLOUD · K8s</span>
+        <br/><br/>
+        <b style="color:#8B5CF6; font-size:16px;">☁️ Full-Stack Hackathon — K8s</b>
+        <br/><br/>
+        <span style="color:#A6ADBB; font-size:14px; line-height:1.7;">Full-stack hackathon project containerized and deployed with <b>Kubernetes</b> — containerization and local orchestration, end to end.</span>
+        <br/><br/>
+        <code>TypeScript</code> · <code>Kubernetes</code> · <code>Docker</code> · <code>Containerization</code>
+        <br/><br/>
+        <a href="https://github.com/Tayyaba-Ramzan/Hackathon-II-FullStack-K8s" style="color:#8B5CF6; font-weight:600; text-decoration:none;">View Repository →</a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -158,3 +213,8 @@ Interested in AI, automation, or modern web engineering? Let's connect.
   <a href="mailto:tayyabaramzan.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tayyaba-ramzan&style=flat-square&color=8B5CF6" alt="Profile views" />
+</p>
