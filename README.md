@@ -24,46 +24,51 @@
   </a>
 </p>
 
----
+⚡ Engineering Snapshot
 
-## 📊 Engineering Snapshot
 
-| | | |
-|---|---|---|
-| 🤖 **AI Agents & LLMs** | ⚡ **Full-Stack** · Next.js + TypeScript | 🔌 **Automation** · MCP + APIs |
-| 🧠 **RAG · AI Applications** | ☁️ **Cloud** · Modern Deployment | 🎨 **UX** · Product Design |
 
----
 
-## 👤 About
 
-I'm an **Agentic AI developer and full-stack engineer** building AI-powered applications that work in the real world.
+
+
+🤖 AI Agents & LLMs
+
+⚡ Full-Stack · Next.js + TypeScript
+
+🔌 Automation · MCP + APIs
+
+🧠 RAG · AI Applications
+
+☁️ Cloud · Modern Deployment
+
+🎨 UX · Product Design
+
+👋 About
+
+I'm an Agentic AI developer and full-stack engineer building AI-powered applications that work in the real world.
 
 I work across the full stack — Next.js and TypeScript on the frontend, Python and FastAPI on the backend, and the AI layer in between.
 
-My focus is **AI agents, MCP integrations, and automation** that solve practical problems. I care about architecture, maintainability, and product thinking — and I continuously experiment with emerging AI technology to build useful things.
+My focus is AI agents, MCP integrations, LLM applications, and intelligent automation that solve practical problems. I care about clean architecture, maintainability, developer experience, and product thinking — while continuously exploring emerging AI technologies and turning them into useful systems.
 
----
-
-## 🔴 Now Building
+🔴 Now Building
 
 <p align="center">
   <b>NOW BUILDING</b>
 </p>
 
 <p align="center">
-  → AI Agents<br/>
-  → MCP-powered workflows<br/>
-  → LLM applications<br/>
-  → AI automation<br/>
-  → Full-stack products
+  → AI Agents & Agentic Workflows<br/>
+  → MCP-Powered Integrations<br/>
+  → LLM Applications & RAG<br/>
+  → AI Automation Systems<br/>
+  → Full-Stack AI Products
 </p>
 
----
+🚀 Featured Projects
 
-## 🚀 Featured Projects
-
-Selected production work across agentic AI, automation, multi-agent engineering, and cloud-native development.
+Selected work across agentic AI, automation, multi-agent systems, and cloud-native development — focused on building practical software that connects intelligence with real-world workflows.
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
@@ -73,7 +78,7 @@ Selected production work across agentic AI, automation, multi-agent engineering,
         <br/><br/>
         <b style="color:#8B5CF6; font-size:16px;">⚙️ Agent Factory</b> <span style="color:#A6ADBB; font-size:14px;">· Canva × LinkedIn</span>
         <br/><br/>
-        <span style="color:#A6ADBB; font-size:14px; line-height:1.7;">Production-ready Agent Factory workflow that connects <b>Canva MCP</b> with <b>Claude Code</b> to generate LinkedIn posts and optimized Canva designs using reusable AI skills.</span>
+        <span style="color:#A6ADBB; font-size:14px; line-height:1.7;">An AI-powered Agent Factory workflow that connects <b>Canva MCP</b> with <b>Claude Code</b> to generate LinkedIn posts and optimized Canva designs using reusable AI skills.</span>
         <br/><br/>
         <code>Claude Code</code> · <code>Canva MCP</code> · <code>Agent Factory</code> · <code>Automation</code>
         <br/><br/>
@@ -86,7 +91,7 @@ Selected production work across agentic AI, automation, multi-agent engineering,
         <br/><br/>
         <b style="color:#8B5CF6; font-size:16px;">🤖 Autonomous AI Employee</b>
         <br/><br/>
-        <span style="color:#A6ADBB; font-size:14px; line-height:1.7;">Production-ready digital FTE that monitors <b>Gmail &amp; LinkedIn</b>, generates content, manages approvals, and executes actions 24/7 using <b>Claude Code</b>.</span>
+        <span style="color:#A6ADBB; font-size:14px; line-height:1.7;">An autonomous digital FTE that monitors <b>Gmail &amp; LinkedIn</b>, generates content, manages approvals, and executes actions 24/7 using <b>Claude Code</b>.</span>
         <br/><br/>
         <code>Python</code> · <code>Claude Code</code> · <code>Workflow Automation</code> · <code>APIs</code>
         <br/><br/>
@@ -101,7 +106,7 @@ Selected production work across agentic AI, automation, multi-agent engineering,
         <br/><br/>
         <b style="color:#8B5CF6; font-size:16px;">🧠 Multi-Agent Systems</b>
         <br/><br/>
-        <span style="color:#A6ADBB; font-size:14px; line-height:1.7;">Collection of multi-agent systems built on the <b>OpenAI Agent SDK</b> — web search tools, guardrails, dynamic instructions, and smart customer-support bots.</span>
+        <span style="color:#A6ADBB; font-size:14px; line-height:1.7;">A collection of multi-agent systems built with the <b>OpenAI Agent SDK</b> — web search tools, guardrails, dynamic instructions, and smart customer-support bots.</span>
         <br/><br/>
         <code>Python</code> · <code>OpenAI Agent SDK</code> · <code>Guardrails</code> · <code>LLMs</code>
         <br/><br/>
@@ -114,7 +119,7 @@ Selected production work across agentic AI, automation, multi-agent engineering,
         <br/><br/>
         <b style="color:#8B5CF6; font-size:16px;">☁️ Full-Stack Hackathon — K8s</b>
         <br/><br/>
-        <span style="color:#A6ADBB; font-size:14px; line-height:1.7;">Full-stack hackathon project containerized and deployed with <b>Kubernetes</b> — containerization and local orchestration, end to end.</span>
+        <span style="color:#A6ADBB; font-size:14px; line-height:1.7;">A full-stack hackathon project containerized and deployed with <b>Kubernetes</b> — containerization and local orchestration from development to deployment.</span>
         <br/><br/>
         <code>TypeScript</code> · <code>Kubernetes</code> · <code>Docker</code> · <code>Containerization</code>
         <br/><br/>
@@ -124,25 +129,21 @@ Selected production work across agentic AI, automation, multi-agent engineering,
   </tr>
 </table>
 
----
+🛠️ Technology Universe
 
-## 🛠 Technology Universe
+Languages: TypeScript · JavaScript · Python
 
-**Languages:** TypeScript · JavaScript · Python
+Frontend: React · Next.js · Tailwind CSS
 
-**Frontend:** React · Next.js · Tailwind CSS
+Backend: Node.js · Express · FastAPI
 
-**Backend:** Node.js · Express · FastAPI
+AI: LLMs · AI Agents · RAG · MCP · Conversational AI
 
-**AI:** LLMs · AI Agents · RAG · MCP · Conversational AI
+Data: MongoDB · SQLite · ChromaDB
 
-**Data:** MongoDB · SQLite · ChromaDB
+Tools & Cloud: Git · GitHub · Postman · Figma · Vercel · Railway · Netlify
 
-**Tools & Cloud:** Git · GitHub · Postman · Figma · Vercel · Railway · Netlify
-
----
-
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <p align="center">
   <img
@@ -173,33 +174,25 @@ Selected production work across agentic AI, automation, multi-agent engineering,
   />
 </p>
 
----
-
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tayyaba-Ramzan/Tayyaba-Ramzan/output/github-snake-dark.svg" alt="Contribution snake" />
 </p>
 
----
+🧭 Currently Exploring
 
-## 🧭 Exploring
+Agentic AI · MCP ecosystems · LLM applications · AI automation · RAG systems · Cloud-native development
 
-> Agentic AI · MCP ecosystems · LLM applications · AI automation · RAG systems · Cloud-native development
+💡 Engineering Philosophy
 
----
+Build useful things.
 
-## ⚡ Philosophy
+Keep systems understandable.
 
-> Build useful things.
->
-> Keep systems understandable.
->
-> Let AI solve real problems.
+Let AI solve real problems.
 
----
-
-## Let's Build Something Intelligent.
+🤝 Let's Build Something Intelligent
 
 Interested in AI, automation, or modern web engineering? Let's connect.
 
@@ -218,3 +211,4 @@ Interested in AI, automation, or modern web engineering? Let's connect.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tayyaba-ramzan&style=flat-square&color=8B5CF6" alt="Profile views" />
 </p>
+
