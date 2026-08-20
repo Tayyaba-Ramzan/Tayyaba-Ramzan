@@ -142,27 +142,9 @@ Selected production work across agentic AI, automation, multi-agent engineering,
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tayyaba-ramzan&theme=github_dark" alt="GitHub Stats" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tayyaba-ramzan&theme=github_dark" alt="Top Languages" width="49%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=tayyaba-ramzan&background=0D1117&hide_border=true&stroke=30363D&ring=8B5CF6&fire=22D3EE&currStreakNum=FFFFFF&currStreakLabel=8B5CF6&sideNums=A6ADBB&sideLabels=A6ADBB&dates=7D8794" alt="GitHub Contribution Streak" width="70%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyaba-ramzan&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=A6ADBB&area=true&hide_border=true" alt="GitHub Contribution Activity" width="100%" /> </p> ---
 
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" />
-</p>
 
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/5-profile-details.svg" />
-</p>
 
 ## 🐍 Contribution Snake
 
