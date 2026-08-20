@@ -164,28 +164,6 @@ Selected production work across agentic AI, automation, multi-agent engineering,
   <img src="./profile-summary-card-output/github_dark/5-profile-details.svg" />
 </p>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/5-profile-details.svg" />
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
