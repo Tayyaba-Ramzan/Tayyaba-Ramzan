@@ -155,7 +155,9 @@ Selected production work across agentic AI, automation, multi-agent engineering,
   </tr>
 </table
 
-https://camo.githubusercontent.com/6b5f12bb47e9fdf01be74c196fdbc8eff5853e4e1e58d60f29f9452e79bec873/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6b68616e7a6164696769746875626964267468656d653d7261646963616c
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyaba-Ramzan&theme=github_dark" width="100%" />
+</p>
 
 ## 🐍 Contribution Snake
 
