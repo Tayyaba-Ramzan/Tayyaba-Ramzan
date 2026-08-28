@@ -153,10 +153,6 @@ Selected production work across agentic AI, automation, multi-agent engineering,
   <img src="https://streak-stats.demolab.com/?user=tayyaba-ramzan&background=0D1117&hide_border=true&stroke=30363D&ring=8B5CF6&fire=22D3EE&currStreakNum=FFFFFF&currStreakLabel=8B5CF6&sideNums=A6ADBB&sideLabels=A6ADBB&dates=7D8794" alt="GitHub Contribution Streak" width="70%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyaba-ramzan&theme=github-compact" alt="GitHub Contribution Activity" width="100%" />
-</p>
-
 <table>
   <tr>
     <td align="center" width="50%">
