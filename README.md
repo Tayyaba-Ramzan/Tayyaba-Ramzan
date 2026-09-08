@@ -2,338 +2,152 @@
 
 # 👋 Hi, I'm **Tayyaba Ramzan**
 
-### `Agentic AI Developer` · `Full-Stack Engineer` · `AI Systems Builder`
+### 🤖 Agentic AI Engineer · Full-Stack Engineer · AI Systems Builder
 
-<p>
-  <a href="https://github.com/Tayyaba-Ramzan">
-    <img src="https://img.shields.io/badge/GitHub-Tayyaba--Ramzan-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tayyabaRamzan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tayyabaramzan.it@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+Agentic+AI+Systems;Engineering+LLM-Powered+Applications;Designing+MCP-Powered+Workflows;Turning+AI+Ideas+Into+Real+Products;Building+The+Future%2C+One+System+At+A+Time" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+AI+Systems+That+Actually+Do+Things;Agents+%7C+MCP+%7C+RAG+%7C+Automation;Next.js+%7C+TypeScript+%7C+Python;From+Ideas+to+Production-Ready+AI+Systems" />
 
 <br/>
 
-> **I build intelligent software where AI, automation, and modern full-stack engineering come together.**
+**I build intelligent software that can reason, use tools, automate workflows, and turn ideas into real products.**
+
+<p>
+<a href="https://github.com/Tayyaba-Ramzan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tayyabaRamzan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:tayyabaramzan.it@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-I'm **Tayyaba Ramzan**, an **Agentic AI Developer and Full-Stack Engineer** focused on building intelligent systems that can reason, use tools, automate workflows, and solve real-world problems.
-
-My work sits at the intersection of:
-
-**AI Agents × LLM Applications × MCP × Automation × Full-Stack Engineering**
-
-I build across the stack — from **Next.js and TypeScript interfaces** to **Python/FastAPI backends**, AI orchestration, RAG pipelines, tool integrations, and cloud deployment.
-
-I'm particularly interested in moving AI beyond simple chat interfaces and toward **systems that actually do things.**
+## 🧠 What I Build
 
 ```text
-Human Intent
-     ↓
-AI Reasoning
-     ↓
-Tools & MCP
-     ↓
-Automation
-     ↓
-Real-World Action
+        HUMAN INTENT
+             ↓
+        AI REASONING
+             ↓
+      AGENTS + MCP + TOOLS
+             ↓
+       MEMORY + RAG
+             ↓
+        AUTOMATION
+             ↓
+       REAL-WORLD ACTION
 ```
 
-### What I care about
+I work at the intersection of **Agentic AI, LLM applications, automation, and modern full-stack engineering.**
 
-* 🧠 Agentic AI & autonomous workflows
-* 🔌 MCP & tool-connected AI systems
-* 🤖 LLM-powered applications
-* 🔍 RAG & knowledge systems
-* ⚡ Full-stack product engineering
-* ☁️ Cloud-native development
-* 🏗️ Clean architecture & maintainable systems
-* 🎨 Product UX that makes complex technology feel simple
+### ⚡ Core Areas
+
+`AI Agents` · `MCP` · `RAG` · `LLM Applications` · `AI Automation`
+`Multi-Agent Systems` · `AI Employees` · `Next.js` · `TypeScript` · `Python` · `FastAPI`
 
 ---
 
-# ⚡ What I Build
+# 🚀 Flagship Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🧠 Nexus AI CEO
 
-### 🤖 Agentic AI
+**AI Executive Platform · Multi-Tenancy · RAG · Event-Driven Architecture**
 
-AI systems that can reason, use tools, maintain context and execute multi-step workflows.
+A production-oriented AI executive system designed around intelligent workflows, memory, automation, and scalable backend architecture.
 
-**Agents · Tool Calling · MCP · Orchestration**
-
-</td>
-
-<td width="50%">
-
-### 🔌 AI Automation
-
-Turning repetitive workflows into intelligent systems that can operate with minimal human intervention.
-
-**APIs · Workflows · Integrations · Automation**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 LLM Applications
-
-Production-oriented applications built around modern language models.
-
-**RAG · Memory · Guardrails · Prompt Engineering**
-
-</td>
-
-<td width="50%">
-
-### ⚡ Full-Stack Products
-
-Modern, responsive applications designed around real user experiences.
-
-**Next.js · TypeScript · React · FastAPI**
-
-</td>
-</tr>
-</table>
+`FastAPI` `PostgreSQL` `Redis Streams` `RAG` `AI Agents`
 
 ---
 
-# 🛠️ Technology Stack
+### 🤖 Autonomous AI Employee
 
-### 🧠 AI / Agent Engineering
+**Digital FTE · AI Automation · Tool-Using Workflows**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
+An autonomous AI employee designed to monitor workflows, generate content, manage approvals, and execute actions across connected services.
 
-`LLMs` · `AI Agents` · `RAG` · `MCP` · `OpenAI Agent SDK` · `Claude Code` · `Prompt Engineering` · `Conversational AI`
+`Python` `Claude Code` `APIs` `Automation`
 
-### 💻 Frontend Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind" />
-</p>
-
-### ⚙️ Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### 🗄️ Data & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,redis,docker,kubernetes" />
-</p>
-
-### ☁️ Developer Ecosystem
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,postman" />
-</p>
+→ [View Project](https://github.com/Tayyaba-Ramzan/Autonomous-AI-Employee-Silver-Tier)
 
 ---
 
-# 🚀 Featured Engineering
+### ⚙️ Agent Factory
 
-> A selection of systems I'm building around AI, automation, full-stack engineering and cloud technologies.
+**Agentic AI · MCP · Claude Code · Canva Automation**
 
-### 01 — Agent Factory × Canva × LinkedIn
-
-**Agentic AI · MCP · Claude Code · Automation**
-
-An AI-powered content engineering workflow that connects **Canva MCP + Claude Code + reusable AI skills** to automate LinkedIn content and design workflows.
-
-**Built with**
+A reusable AI workflow system combining **AI skills, MCP tools, and Claude Code** to automate content and design workflows.
 
 `Claude Code` `Canva MCP` `Agent Factory` `Automation`
 
-→ [Explore the repository](https://github.com/Tayyaba-Ramzan/Agent-Factory-Canva-Linkedin-System)
+→ [View Project](https://github.com/Tayyaba-Ramzan/Agent-Factory-Canva-Linkedin-System)
 
 ---
 
-### 02 — Autonomous AI Employee
+### 🧩 Multi-Agent Systems
 
-**AI Employee · Automation · APIs · Claude Code**
+**Agents · Tool Calling · Guardrails · LLM Engineering**
 
-A digital AI worker designed to monitor workflows, generate content, manage approvals and execute actions through connected services.
-
-**Built with**
-
-`Python` `Claude Code` `APIs` `Workflow Automation`
-
-→ [Explore the repository](https://github.com/Tayyaba-Ramzan/Autonomous-AI-Employee-Silver-Tier)
-
----
-
-### 03 — Multi-Agent Systems
-
-**Multi-Agent AI · LLM Engineering · Guardrails**
-
-A collection of agentic systems exploring tool usage, dynamic instructions, web search, guardrails and intelligent customer-support workflows.
-
-**Built with**
+A collection of intelligent multi-agent systems exploring tool usage, dynamic instructions, web search, guardrails, and customer-support automation.
 
 `Python` `OpenAI Agent SDK` `LLMs` `Guardrails`
 
-→ [Explore the repository](https://github.com/Tayyaba-Ramzan/Multi-Agent-Systems)
+→ [View Project](https://github.com/Tayyaba-Ramzan/Multi-Agent-Systems)
 
 ---
 
-### 04 — Full-Stack Kubernetes Engineering
+# 🔌 My AI Stack
 
-**Full-Stack · Docker · Kubernetes · Cloud-Native**
+<p align="center">
 
-A full-stack engineering project taken beyond application development into containerization and Kubernetes-based orchestration.
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,postgres,mongodb,redis,docker,kubernetes,git,github,vercel,figma" />
 
-**Built with**
+</p>
 
-`TypeScript` `Docker` `Kubernetes` `Containerization`
+<div align="center">
 
-→ [Explore the repository](https://github.com/Tayyaba-Ramzan/Hackathon-II-FullStack-K8s)
+**AI**
 
----
+`Agents` · `LLMs` · `RAG` · `MCP` · `Tool Calling` · `Memory` · `Guardrails`
 
-# 🧩 My Engineering Philosophy
+**Engineering**
 
-<table>
-<tr>
-<td align="center" width="33%">
+`Next.js` · `React` · `TypeScript` · `Python` · `FastAPI` · `Node.js`
 
-### 🧠 THINK
+**Infrastructure**
 
-Understand the problem before choosing the technology.
+`PostgreSQL` · `MongoDB` · `SQLite` · `Redis` · `ChromaDB` · `Docker` · `Kubernetes`
 
-</td>
-
-<td align="center" width="33%">
-
-### 🏗️ BUILD
-
-Turn ideas into maintainable, production-oriented systems.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🚀 SHIP
-
-Make technology useful outside the development environment.
-
-</td>
-</tr>
-</table>
-
-> **AI should not only answer.
-> AI should understand, decide, act, and create value.**
+</div>
 
 ---
 
 # 🔭 Currently Exploring
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🤖 Agentic AI              🔌 MCP Ecosystems          │
-│                                                         │
-│   🧠 Advanced RAG            ⚡ AI Automation            │
-│                                                         │
-│   🏗️ AI System Design       ☁️ Cloud-Native AI         │
-│                                                         │
-│   🔗 Tool-Using Agents       🧩 Multi-Agent Systems     │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-I'm continuously experimenting with emerging AI infrastructure and exploring how autonomous systems can become **more reliable, useful, observable, and production-ready.**
+**Agentic AI** · **MCP Ecosystems** · **Context Engineering**
+**AI Evaluation** · **Autonomous Workflows** · **Production AI Infrastructure**
 
 ---
 
-# 📊 GitHub Engineering Activity
+## 💡 Engineering Belief
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tayyaba-Ramzan&theme=github_dark" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tayyaba-Ramzan&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tayyaba-Ramzan&theme=github_dark" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tayyaba-Ramzan&theme=github-dark-blue&hide_border=true" width="70%" />
-</p>
+> **AI shouldn't just answer.**
+>
+> **It should understand → reason → act → learn → deliver.**
 
 ---
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tayyaba-Ramzan/Tayyaba-Ramzan/output/github-snake-dark.svg" alt="GitHub contribution snake" />
-</p>
-
----
-
-# 🌱 Beyond the Code
-
-I'm not interested in building technology just because it's new.
-
-I'm interested in understanding:
-
-**What can this technology unlock?**
-
-How can an AI system reduce friction?
-
-How can automation give people back their time?
-
-How can intelligent software become easier to use?
-
-How can we turn complicated infrastructure into products people actually love using?
-
-That's the kind of engineering I want to practice.
-
----
-
-# 💜 Let's Build Something Intelligent
-
-If you're working on:
-
-**AI Agents · LLM Applications · MCP · Automation · Full-Stack Products · AI Startups**
-
-I'd love to connect, collaborate, and build something meaningful.
 
 <div align="center">
 
-### **Build boldly. Think deeply. Ship intelligently.**
+# Let's Build Something Intelligent. 🚀
+
+**AI · Agents · MCP · Automation · Full-Stack**
 
 <br/>
 
 <a href="https://www.linkedin.com/in/tayyabaRamzan/">
-<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:tayyabaramzan.it@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Connect_with_me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Tayyaba-Ramzan&style=for-the-badge&color=8B5CF6" />
+<img src="https://komarev.com/ghpvc/?username=Tayyaba-Ramzan&style=for-the-badge&color=8B5CF6"/>
 
 </div>
