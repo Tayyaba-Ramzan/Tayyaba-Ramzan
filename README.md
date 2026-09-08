@@ -119,6 +119,16 @@ A full-stack application taken beyond development into containerization and Kube
 
 ---
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tayyaba-Ramzan/Tayyaba-Ramzan/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
+
+<img src="https://raw.githubusercontent.com/Tayyaba-Ramzan/Tayyaba-Ramzan/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" />
+
+</div>
+
+---
+
 # 📊 GitHub Activity
 
 <p align="center">
